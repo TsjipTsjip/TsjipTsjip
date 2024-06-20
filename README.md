@@ -8,8 +8,8 @@
 
 ### Some of my skills
 
-Programming languages:
-- Proficient: Python, C++, Java
+Programming languages and frameworks:
+- Proficient: Python, C++, Java, Vue
 - Learning: C#, Rust
 
 Development skills:
