@@ -4,6 +4,7 @@
 - 📖 Currently pursuing a master's degree in Computer Science.
 - 🌱 Always exploring and learning new things.
 - 📫 Contact: `tsjiptsjip [at] tsjiptsjip.net`
+- ✒️ Always excited to learn new things.
 
 ### Some of my skills
 
