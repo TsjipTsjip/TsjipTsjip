@@ -15,7 +15,11 @@ Programming languages:
 Development skills:
 - DevOps, CI/CD cycles, code review, system administration
 - Documenting code and other development workflows
-- Docker
+- Docker deployments
+
+Other skills:
+- Team organisation and collaboration
+- Clear communication and joint planning
 
 ![TsjipTsjip's Stats](https://github-readme-stats.vercel.app/api?username=TsjipTsjip&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
